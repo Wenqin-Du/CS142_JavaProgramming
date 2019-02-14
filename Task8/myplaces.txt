@@ -1,0 +1,29 @@
+EJ Burger
+4516 University Way NE
+Hamburger Restaurant, comfort food
+47.661723
+-122.312843
+
+Memos Mexican Restaurant
+4747 University Way NE
+Mexican Restaurant, fast food
+47.664413
+-122.313347
+
+Palmi Korean BBQ
+4542 University Way NE
+Korean Barbecue Restaurant, comfort food
+47.662496
+-122.312679
+
+Sichuan Hot Pot
+4741 12th Ave NE
+restaurant, casual, comfort food
+47.664362
+-122.315459
+
+Henry's Taiwan Kitchen
+4106 Brooklyn Ave NE
+Chinese Restaurant, comfort food
+47.657103
+-122.314201
